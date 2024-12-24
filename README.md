@@ -161,6 +161,9 @@ python app.py
 - **Method** - `GET`
 - Displays detailed paycheck information (salary, deductions, etc.) in a clean, readable format on the web page
 
+## PayFlow Demo
+https://github.com/user-attachments/assets/ed090934-f522-4776-b9ea-26bb487de8de
+
 ## Customization
 1. **Add More Roles** - You can add additional roles (e.g., "HR", "Contractor", etc) by adding corresponding payroll data in the `payroll_data` dictionary in `app.py`.
 2. **Modify the PDF Style** - The PDF generation logic can be customized to match your company's branding (e.g., colors, fonts, layout).
