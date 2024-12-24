@@ -1,0 +1,6 @@
+# requirements.txt - Python dependencies
+# PURPOSE - This file lists the Python dependencies required for the project
+
+Flask==2.2.2
+Werkzeug==2.2.2
+ReportLab==4.0.0
